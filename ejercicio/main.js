@@ -1,4 +1,4 @@
-let aprendices = {"juan","raul"};
+let aprendices = {};
 
 class aprendiz{
     constructor(nombre,edad,sexo,competencia,aprendices){
